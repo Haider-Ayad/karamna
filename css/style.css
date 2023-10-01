@@ -8,11 +8,9 @@
 body{
 	direction: rtl;
 }
-
- .offset-top-34{
-	background-image: url(../images/bg.png)!important;
-	background-size: cover;
-
+.xx{
+    font-size: 30px !important;
+	font-weight: bold !important;
 }
 .isotope-wrap{
 	
